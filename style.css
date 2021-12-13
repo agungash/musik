@@ -76,3 +76,22 @@ body {
 .btns span.playPause ion-icon {
     font-size: 3em;
 }
+@media only screen and (max-width: 494px) {
+    .player {
+        width: 100%;
+    }
+    .btns span ion-icon {
+        font-size: 1em;
+    }
+    .btns span.playPause ion-icon {
+        font-size: 2em;
+    }
+    .btns span {
+        width: 50px;
+        height: 50px;
+    }
+    .btns span.playPause {
+        width: 70px;
+        height: 70px;
+    }
+}
