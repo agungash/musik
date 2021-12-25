@@ -25,6 +25,14 @@ const songList = [
         songName: "Kenshi Yonezu - Lemon",
     },
     {
+        path: "musik/YOASOBI「たぶん」Official Music  Video.mp3",
+        songName: "Yoasobi - Tabun",
+    },
+    {
+        path: "musik/Yoru-ni-kakeru-(osanime.com).mp3",
+        songName: "Yoasobi - Yoru ni Kakeru",
+    },
+    {
         path: "musik/LISA - MONEY [128 kbps].mp3",
         songName: "Lisa - Money",
     },
@@ -39,10 +47,6 @@ const songList = [
     {
         path: "musik/Monday Kiz Punch - Another Day (Hotel Del Luna OST Part.1) [128 kbps].mp3",
         songName: "Monday Kiz Punch - Another Day",
-    },
-    {
-        path: "musik/YOASOBI「たぶん」Official Music  Video.mp3",
-        songName: "Yoasobi - Tabun",
     },
     {
         path: "musik/IU - Celebrity [128 kbps].mp3",
