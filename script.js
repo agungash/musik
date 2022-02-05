@@ -49,8 +49,8 @@ const songList = [
         songName: "Twice - What is Love",
     },
     {
-        path: "musik/ver-Live-Edit-ver_Pk9Lj_CZmws.mp3",
-        songName: "Tokimeki Sendenbu - Suki",
+        path: "musik/IU - 라일락 (LILAC) [321 kbps].mp3",
+        songName: "Lee Ji-eun (IU) - Lilac",
     },
     {
         path: "musik/Monday Kiz Punch - Another Day (Hotel Del Luna OST Part.1) [128 kbps].mp3",
@@ -59,6 +59,14 @@ const songList = [
     {
         path: "musik/IU - Celebrity [128 kbps].mp3",
         songName: "Lee Ji-eun (IU) - Celebrity",
+    },
+    {
+        path: "musik/LOCO Punch - Say Yes (OST Moon Lovers [129 kbps].mp3",
+        songName: "LOCO Punch - Say Yes",
+    },
+    {
+        path: "musik/Epik High Lee Hi - Can You Hear My Heart (OST Scarlet Heart Ryeo) [129 kbps].mp3",
+        songName: "Epik High Lee Hi - Can You Hear My Heart",
     },
     {
         path: "musik/Park Shin Hye - Love is Like Snow [OST Pinocchio Part.4] [128 kbps].mp3",
