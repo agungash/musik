@@ -17,6 +17,14 @@ const songList = [
         songName: "Radwimps - Zen zen zense",
     },
     {
+        path: "musik/幾田りら「ロマンスの約束」Official Music Video (320 kbps).mp3",
+        songName: "Lilas Ikuta - Romansu no Yakusoku",
+    },
+    {
+        path: "musik/Answer (320 kbps).mp3",
+        songName: "Lilas Ikuta - Answer",
+    },
+    {
         path: "musik/(DownloadLagu321.Net) Kokoronashi - Gumi.mp3",
         songName: "Gumi - Kokoronashi",
     },
